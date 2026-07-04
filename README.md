@@ -76,8 +76,7 @@ The dashboard includes:
 - `README.md` – Project documentation
 
 ## 📸 Dashboard Preview
-https://github.com/Emmanuelakingbadeo-Tech/SkyLink-Travel-Analytics/blob/main/images/Skylink_Travel%20_Dashboard.png
-
+![SkyLink_Travel_Analytics Dashboard](images/Skylink_Travel_Dashboard.png)
 ## 👤 Author
 
 **Emmanuel Akingbade**
