@@ -87,7 +87,7 @@ The dashboard includes:
 Data Analyst
 
 - GitHub: https://github.com/Emmanuelakingbade-Tech
-- LinkedIn: *()*
+- LinkedIn: *(https://www.linkedin.com/in/akingbade-emmanuel-818b563a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)*
 
 ---
 
